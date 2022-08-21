@@ -3,7 +3,7 @@ import discord
 
 TOKEN = "MTAxMDg1OTcwOTI4MjEyMzkxOQ.Gc1h2v.baqah8ykNCEM8rwMgLb5Q_5GlufX3h7j5uBqbc"
 
-#client = discord.Client()
+# client = discord.Client()
 client = discord.Client(intents=discord.Intents.default())
 
 @client.event
@@ -28,3 +28,4 @@ client.run(TOKEN)
 
 
 
+#https://youtu.be/HgAiwhpKM0s
